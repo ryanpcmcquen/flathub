@@ -68,6 +68,7 @@
   <icon type="remote" height="128" width="128">https://raw.githubusercontent.com/flathub/com.sublimehq.SublimeText/master/com.sublimehq.SublimeText-128.png</icon>
   <icon type="remote" height="48" width="48">https://raw.githubusercontent.com/flathub/com.sublimehq.SublimeText/master/com.sublimehq.SublimeText-48.png</icon>
   <releases>
+    <release date="2022-11-11" version="4143" />
     <release date="2021-12-21" version="4126" />
   </releases>
   <content_rating type="oars-1.1">
